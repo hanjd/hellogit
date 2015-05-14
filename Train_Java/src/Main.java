@@ -8,5 +8,6 @@ public class Main {
 		System.out.print( "[Main] 준비2");
 		System.out.print( "[Main] 준비3");
 		System.out.print( "[Main] 준비4");
+		System.out.print( "[Main] 준비5");
 	}
 }
