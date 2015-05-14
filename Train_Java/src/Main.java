@@ -11,5 +11,6 @@ public class Main {
 		System.out.print( "[Main] 준비5");
 		System.out.print( "[Main] 준비6");
 		System.out.print( "[Main] 준비7");
+		System.out.print( "[Main] 브랜치1");
 	}
 }
