@@ -10,5 +10,6 @@ public class Main {
 		System.out.print( "[Main] 준비4");
 		System.out.print( "[Main] 준비5");
 		System.out.print( "[Main] 준비6");
+		System.out.print( "[Main] 준비7");
 	}
 }
